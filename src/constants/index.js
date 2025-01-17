@@ -95,18 +95,18 @@ export const COURSES = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: " Real Estate Website",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js"],
+      "A fully functional real estate website with user contact information upload",
+    technologies: ["HTML", "CSS", "React", "Node.js", "Tailwind.css"],
   },
   {
     title: "X/Twitter UI Clone",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "React", "Next.js"],
+      "An application made by cloning a fully functional UI design of X.com with uploading photos,videos, and post to the applications feed .",
+    technologies: ["HTML", "CSS", "React", "Next.js", "Tailwind.css"],
   },
   {
     title: "Portfolio Website",
@@ -123,5 +123,5 @@ export const CONTACT = {
   phoneNo: "+1 336 708 4443 ",
   email: "kirkkm@wfu.edu",
   personalEmail:"kennedykirk@live.com",
-  github:"",
+  github:"WakeDeaconKirk22",
 };
